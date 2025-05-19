@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+div {
+    border: 1px solid red;
+}
+
+.page {
+    display: grid;
+    grid-template: 17vh 83vh / 18vw 82vw;
+}
+
+.sidebar {
+    grid-row: 1 / 3;
+}
