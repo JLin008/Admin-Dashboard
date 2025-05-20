@@ -15,6 +15,7 @@ button {
     background-color: rgb(42, 132, 218);
     border: none;
     color: white;
+    font-weight: 900;
 }
 
 .page {
@@ -54,8 +55,8 @@ button {
 .button-container > button {
     text-align: left;
     font-size: 20px;
-
 }
+
 
 .header-container {
     display: grid;
@@ -110,6 +111,7 @@ button {
 }
 
 .big-text {
+    margin-top: 10px;
     font-size: 25px;
     font-weight: 900;
 }
@@ -123,6 +125,6 @@ button {
 
 .create > button {
     border-radius: 20px;
-    font-weight: 900;
+    font-weight: 600;
     font-size: 15px;
 }
